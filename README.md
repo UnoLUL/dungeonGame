@@ -1,0 +1,1 @@
+made just using C++, simple terminal based dungeon game where the main goal is to get as high of a score as possible, i used it as a project to learn more about how while and if loops break into and out of each other aswell as function stuff
